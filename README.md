@@ -6,3 +6,7 @@
 ```
 const t5ip=require('tinymce5-ice-plugin');
 ```
+
+```
+<script src="./dist/main.js" />
+```
