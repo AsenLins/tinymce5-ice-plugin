@@ -9,12 +9,13 @@
   },
   "keywords": [],
   "author": "asen",
-  "license": "ISC",
+  "license": "MIT",
   "github":"https://github.com/AsenLins",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AsenLins/tinymce5-ice-plugin.git"
   },
+  "homepage": "https://github.com/AsenLins/tinymce5-ice-plugin#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1"
