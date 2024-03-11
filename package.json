@@ -11,6 +11,10 @@
   "author": "asen",
   "license": "ISC",
   "github":"https://github.com/AsenLins",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsenLins/tinymce5-ice-plugin.git"
+  },
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1"
