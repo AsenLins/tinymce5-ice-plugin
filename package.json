@@ -1,7 +1,7 @@
 {
   "name": "tinymce5-ice-plugin",
-  "version": "1.0.4",
-  "description": "",
+  "version": "1.0.5",
+  "description": "tinymce5-ice-plugin",
   "main": "./dist/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
