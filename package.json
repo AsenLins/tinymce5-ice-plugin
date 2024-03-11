@@ -1,6 +1,6 @@
 {
   "name": "tinymce5-ice-plugin",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "tinymce5-ice-plugin",
   "main": "./dist/main.js",
   "scripts": {
@@ -13,6 +13,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AsenLins/tinymce5-ice-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AsenLins/tinymce5-ice-plugin/issues"
   },
   "homepage": "https://github.com/AsenLins/tinymce5-ice-plugin#readme",
   "devDependencies": {
